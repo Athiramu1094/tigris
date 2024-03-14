@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+}
+
+
+
+
+
+
+*body{
+    font-family: 'Poppins', sans-serif;
+}
+
+#logo, h1, h2, h3, h4, h5, h6{
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+
+
+#button1{
+    width: 100%;
+}
+#button2{
+    width: 100%;
+}
+#person{
+  height: 10%;
+}
+#award{
+    height: 10%;
+}
